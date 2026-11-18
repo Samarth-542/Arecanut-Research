@@ -1,0 +1,47 @@
+group_id,total_files,classes,filenames,cross_class
+51,3,"['Ripe', 'Unripe']","['143.jpg', 'IP_UNRIP_145.jpg', 'IP_UNRIP_206.jpg']",True
+52,2,"['Ripe', 'Unripe']","['144.jpg', 'IP_UNRIP_058.jpg']",True
+53,3,"['Ripe', 'Unripe']","['145.jpg', 'IP_UNRIP_053.jpg', 'IP_UNRIP_180.jpg']",True
+54,2,"['Ripe', 'Unripe']","['146.jpg', 'IP_UNRIP_051.jpg']",True
+55,3,"['Ripe', 'Unripe']","['147.jpg', 'IP_UNRIP_041.jpg', 'IP_UNRIP_175.jpg']",True
+56,4,"['Ripe', 'Unripe']","['148.jpg', '237.jpg', '5.jpg', 'IP_UNRIP_035.jpg']",True
+57,2,"['Ripe', 'Unripe']","['149.jpg', 'IP_UNRIP_030.jpg']",True
+59,2,"['Ripe', 'Unripe']","['150.jpg', 'IP_UNRIP_005.jpg']",True
+60,3,"['Ripe', 'Unripe']","['151.jpg', 'IP_UNRIP_002.jpg', 'IP_UNRIP_160.jpg']",True
+61,2,"['Ripe', 'Unripe']","['152.jpg', 'IP_UNRIP_307.jpg']",True
+62,2,"['Ripe', 'Unripe']","['154.jpg', 'IP_UNRIP_118.jpg']",True
+72,2,"['Ripe', 'Unripe']","['163.jpg', 'IP_UNRIP_378.jpg']",True
+73,2,"['Ripe', 'Unripe']","['164.jpg', 'IP_UNRIP_383.jpg']",True
+74,3,"['Ripe', 'Unripe']","['165.jpg', 'IP_UNRIP_109.jpg', 'IP_UNRIP_200.jpg']",True
+75,3,"['Ripe', 'Unripe']","['166.jpg', 'IP_UNRIP_233.jpg', 'IP_UNRIP_388.jpg']",True
+76,2,"['Ripe', 'Unripe']","['167.jpg', 'IP_UNRIP_404.jpg']",True
+77,2,"['Ripe', 'Unripe']","['168.jpg', 'IP_UNRIP_420.jpg']",True
+78,2,"['Ripe', 'Unripe']","['169.jpg', 'IP_UNRIP_427.jpg']",True
+80,3,"['Ripe', 'Unripe']","['170.jpg', 'IP_UNRIP_246.jpg', 'IP_UNRIP_442.jpg']",True
+81,2,"['Ripe', 'Unripe']","['171.jpg', 'IP_UNRIP_452.jpg']",True
+82,3,"['Ripe', 'Unripe']","['172.jpg', 'IP_UNRIP_217.jpg', 'IP_UNRIP_328.jpg']",True
+83,2,"['Ripe', 'Unripe']","['173.jpg', 'IP_UNRIP_335.jpg']",True
+84,2,"['Ripe', 'Unripe']","['174.jpg', 'IP_UNRIP_336.jpg']",True
+85,3,"['Ripe', 'Unripe']","['175.jpg', 'IP_UNRIP_220.jpg', 'IP_UNRIP_337.jpg']",True
+86,2,"['Ripe', 'Unripe']","['176.jpg', 'IP_UNRIP_107.jpg']",True
+87,2,"['Ripe', 'Unripe']","['177.jpg', 'IP_UNRIP_347.jpg']",True
+88,2,"['Ripe', 'Unripe']","['178.jpg', 'IP_UNRIP_349.jpg']",True
+89,2,"['Ripe', 'Unripe']","['179.jpg', 'IP_UNRIP_353.jpg']",True
+91,2,"['Ripe', 'Unripe']","['180.jpg', 'IP_UNRIP_371.jpg']",True
+97,3,"['Ripe', 'Unripe']","['187.jpg', 'IP_UNRIP_077.jpg', 'IP_UNRIP_189.jpg']",True
+99,2,"['Ripe', 'Unripe']","['194.jpg', 'IP_UNRIP_457.jpg']",True
+100,2,"['Ripe', 'Unripe']","['195.jpg', 'IP_UNRIP_556.jpg']",True
+101,3,"['Ripe', 'Unripe']","['196.jpg', 'IP_UNRIP_276.jpg', 'IP_UNRIP_565.jpg']",True
+102,2,"['Ripe', 'Unripe']","['197.jpg', 'IP_UNRIP_594.jpg']",True
+103,3,"['Ripe', 'Unripe']","['198.jpg', 'IP_UNRIP_068.jpg', 'IP_UNRIP_185.jpg']",True
+104,2,"['Ripe', 'Unripe']","['199.jpg', 'IP_UNRIP_606.jpg']",True
+107,4,"['Ripe', 'Unripe']","['200.jpg', '262.jpg', '358.jpg', 'IP_UNRIP_612.jpg']",True
+108,2,"['Ripe', 'Unripe']","['201.jpg', 'IP_UNRIP_615.jpg']",True
+109,2,"['Ripe', 'Unripe']","['202.jpg', 'IP_UNRIP_627.jpg']",True
+110,2,"['Ripe', 'Unripe']","['203.jpg', 'IP_UNRIP_474.jpg']",True
+111,2,"['Ripe', 'Unripe']","['204.jpg', 'IP_UNRIP_479.jpg']",True
+112,2,"['Ripe', 'Unripe']","['205.jpg', 'IP_UNRIP_494.jpg']",True
+113,3,"['Ripe', 'Unripe']","['206.jpg', 'IP_UNRIP_261.jpg', 'IP_UNRIP_502.jpg']",True
+116,2,"['Ripe', 'Unripe']","['209.jpg', 'IP_UNRIP_294.jpg']",True
+128,3,"['Ripe', 'Unripe']","['220.jpg', 'IP_UNRIP_063.jpg', 'IP_UNRIP_183.jpg']",True
+134,2,"['Ripe', 'Unripe']","['226.jpg', 'IP_UNRIP_059.jpg']",True

@@ -1,0 +1,103 @@
+cd "C:\Users\gsama\Desktop\arecanut_research_starter\arecanut_research_starter"
+
+@'
+# ==============================
+# Python environments and caches
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# ==============================
+# Secrets and environment files
+# ==============================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ==============================
+# Jupyter temporary files
+# ==============================
+.ipython/
+profile_default/
+
+# ==============================
+# Dataset archives and image data
+# ==============================
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Raw and processed datasets
+notebooks/dataset/
+dataset/
+data/
+raw_data/
+processed_data/
+
+# ==============================
+# Model checkpoints and binaries
+# ==============================
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.keras
+*.onnx
+*.safetensors
+*.engine
+
+# Array and tensor dumps
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.ptl
+
+# ==============================
+# Generated experiment artifacts
+# ==============================
+models/**/graphs/*.png
+models/**/graphs/*.jpg
+models/**/graphs/*.jpeg
+models/**/*.log
+
+# Training logs and temporary outputs
+logs/
+runs/
+wandb/
+tensorboard/
+lightning_logs/
+
+# ==============================
+# OS and editor files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Build and distribution
+# ==============================
+build/
+dist/
+*.egg-info/
+'@ | Set-Content -Path ".gitignore" -Encoding UTF8

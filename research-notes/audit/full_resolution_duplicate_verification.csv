@@ -1,0 +1,7 @@
+image_1,image_2,same_shape,full_resolution_pixel_identical,different_pixel_count,maximum_pixel_difference,mean_absolute_error
+IP_UNRIP_270.jpg,IP_UNRIP_282.jpg,True,True,0,0,0.0
+IP_UNRIP_270.jpg,IP_UNRIP_535.jpg,True,True,0,0,0.0
+IP_UNRIP_270.jpg,IP_UNRIP_590.jpg,True,True,0,0,0.0
+IP_UNRIP_282.jpg,IP_UNRIP_535.jpg,True,True,0,0,0.0
+IP_UNRIP_282.jpg,IP_UNRIP_590.jpg,True,True,0,0,0.0
+IP_UNRIP_535.jpg,IP_UNRIP_590.jpg,True,True,0,0,0.0

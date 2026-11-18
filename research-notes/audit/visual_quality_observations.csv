@@ -1,0 +1,5 @@
+category,observation,decision
+Random Ripe,"Predominantly yellow, orange and orange-brown fruits with variation in camera angles, bunch density and background.",Retain pending label validation
+Random Unripe,Predominantly green and green-yellow fruits with natural variation in illumination and fruit coloration.,Retain pending label validation
+High Bright Pixels,Several images contain bright sky regions and backlighting. Whole-image exposure metrics may be influenced by background pixels.,Retain; investigate fruit-region quality
+Low Blur,Some low-scoring images still show distinguishable fruit boundaries. Laplacian variance alone is insufficient for rejection.,Retain; no automatic rejection

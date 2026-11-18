@@ -1,0 +1,12 @@
+# Install PyTorch and Torchvision separately using https://pytorch.org/get-started/locally/
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+scikit-learn
+scipy
+jupyterlab
+ipykernel
+tqdm
+PyYAML

@@ -1,0 +1,68 @@
+ARECANUT-RESEARCH/
+|
+|-- README.md
+|-- prd.md
+|-- rules.md
+|-- memory.md
+|-- architecture.md
+|-- requirements.txt
+|-- .gitignore
+|
+|-- configs/
+|   |-- dataset.yaml
+|   |-- training.yaml
+|   |-- experiments/
+|
+|-- dataset/
+|   |-- raw/                 # Original archive; immutable
+|   |-- extracted/           # Extracted source dataset
+|   |-- processed/           # Derived data/cache
+|   |-- annotations/         # Labels, masks, boxes if supplied
+|   |-- manifests/           # Inventory and metadata
+|   |-- splits/              # Saved train/validation/test definitions
+|
+|-- notebooks/
+|   |-- 01_dataset_audit.ipynb
+|   |-- 02_image_visualization.ipynb
+|   |-- 03_color_spaces.ipynb
+|   |-- 04_baseline_experiments.ipynb
+|
+|-- src/
+|   |-- data/                # audit.py, manifest.py, split.py, dataset.py
+|   |-- preprocessing/        # image_io.py, color_spaces.py, transforms.py
+|   |-- models/               # mobilenet.py, vgg16.py, densenet.py
+|   |-- training/             # train.py, validate.py, checkpoint.py
+|   |-- evaluation/           # metrics.py, confusion_matrix.py, reports.py
+|   |-- segmentation/         # Future; only if annotations support it
+|   |-- fusion/               # Future; define method before implementation
+|   |-- utils/                # seed.py, device.py, logging.py
+|
+|-- experiments/
+|   |-- configs/
+|   |-- logs/
+|   |-- checkpoints/
+|   |-- runs/
+|
+|-- results/
+|   |-- tables/
+|   |-- figures/
+|   |-- reports/
+|
+|-- research-notes/
+|   |-- learning-notes/
+|   |-- paper-analysis/
+|   |-- experiment-journal/
+|
+|-- tests/
+|   |-- test_dataset.py
+|   |-- test_preprocessing.py
+|
+|-- scripts/
+|   |-- audit_dataset.py
+|   |-- train_baseline.py
+|   |-- evaluate.py
+
+Folder policy:
+- Raw source data is immutable and excluded from version control.
+- Commit code, docs, configs, and small manifests.
+- Do not commit virtual environments, large datasets, or model checkpoints.

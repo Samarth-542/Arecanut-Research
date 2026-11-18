@@ -1,0 +1,4 @@
+Color Space,Test Loss,Accuracy,Macro Precision,Macro Recall,Macro F1,Balanced Accuracy
+RGB,0.2408,0.8857,0.892,0.8619,0.8732,0.8619
+HSV,0.4411,0.8,0.7857,0.7937,0.789,0.7937
+YCgCr,0.5,0.8,0.8109,0.7544,0.768,0.7544

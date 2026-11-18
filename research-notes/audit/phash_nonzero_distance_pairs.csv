@@ -1,0 +1,3 @@
+image_1,class_1,image_2,class_2,hash_distance,path_1,path_2
+92.jpg,Ripe,98.jpg,Ripe,6,c:\Users\gsama\Desktop\arecanut_research_starter\arecanut_research_starter\dataset\extracted\Dataset\Ripe_Input_images\92.jpg,c:\Users\gsama\Desktop\arecanut_research_starter\arecanut_research_starter\dataset\extracted\Dataset\Ripe_Input_images\98.jpg
+IP_UNRIP_323.jpg,Unripe,IP_UNRIP_325.jpg,Unripe,8,c:\Users\gsama\Desktop\arecanut_research_starter\arecanut_research_starter\dataset\extracted\Dataset\Un_ripe_Input_Images\IP_UNRIP_323.jpg,c:\Users\gsama\Desktop\arecanut_research_starter\arecanut_research_starter\dataset\extracted\Dataset\Un_ripe_Input_Images\IP_UNRIP_325.jpg
